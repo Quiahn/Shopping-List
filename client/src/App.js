@@ -1,4 +1,3 @@
-import "./App.css";
 import InputField from "./components/InputField";
 
 function App() {
