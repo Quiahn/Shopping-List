@@ -1,12 +1,13 @@
-import "./App.css"
-import Para from "./components/Para"
-import { useState, useEffect } from "react"
-import axios from "axios"
+import "./App.css";
+import InputField from "./components/InputField";
 
 function App() {
     // Variables
-
+    return (
+        <div>
+            <InputField />
+        </div>
+    );
 }
-
 
 export default App;
